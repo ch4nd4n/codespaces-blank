@@ -1,0 +1,12 @@
+node_modules
+dist
+.cache
+.parcel-cache
+yarn-error.log
+
+# 11ty
+_site
+
+# Local Netlify folder
+.netlify
+
